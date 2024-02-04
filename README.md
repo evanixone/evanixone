@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evanixone
 - 👀 I’m interested in Game Development and Website Development
 - 🌱 I’m currently learning Frontend Development and Backend Development
-- 💞️ I’m looking to collaborate on Unity Project
+- 💞️ I’m looking to collaborate on Godot or Unity Project
 - 📫 How to reach me : syazwanaziz20082000@gmail.com
 
 <!---
